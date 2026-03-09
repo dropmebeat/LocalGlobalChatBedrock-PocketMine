@@ -1,0 +1,6 @@
+name: LocalGlobalChatBedrock
+version: 1.0.0
+main: icrafts\localglobalchatbedrock\LocalGlobalChatBedrock
+api: 5.0.0
+author: iCrafts
+description: Local chat in 100 blocks and global chat with ! prefix
